@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
@@ -25,31 +24,3 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
-=======
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_pcap_sendpacket", "4_pcap_sendpacket\4_pcap_sendpacket.csproj", "{70508ED8-EBA0-4EBA-82A7-71EBD5985713}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinPcap", "..\WinPcap\WinPcap.csproj", "{99A55436-D87F-41B6-83F5-CC17DE5F0647}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{70508ED8-EBA0-4EBA-82A7-71EBD5985713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70508ED8-EBA0-4EBA-82A7-71EBD5985713}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70508ED8-EBA0-4EBA-82A7-71EBD5985713}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70508ED8-EBA0-4EBA-82A7-71EBD5985713}.Release|Any CPU.Build.0 = Release|Any CPU
-		{99A55436-D87F-41B6-83F5-CC17DE5F0647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{99A55436-D87F-41B6-83F5-CC17DE5F0647}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{99A55436-D87F-41B6-83F5-CC17DE5F0647}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{99A55436-D87F-41B6-83F5-CC17DE5F0647}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-EndGlobal
->>>>>>> bd24ca4acf43e0a9971510b146e0958d53f4a810
